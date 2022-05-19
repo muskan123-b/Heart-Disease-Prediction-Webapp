@@ -4,7 +4,8 @@ The aim of this project is to create a web app using streamlit library in python
 # About Problem
 Heart disease is the leading cause of death worldwide, accounting for one third of deaths in 2019. Heart disease cases nearly doubled over the period, from 271 million in 1990 to 523 million in 2019, and the number of heart disease deaths rose from 12.1 million to 18.6 million. The efficient and accurate and early medical diagnosis of heart disease plays a crucial role in taking preventive measures to prevent death.
 
-<img src="https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png" width="350" />
+
+<img src="https://user-images.githubusercontent.com/73715927/169297079-93fda2d2-e945-471e-b1e8-a84fd47f8e9d.jpg" width="350" />
 
 # Dataset Used
 Heart Disease Cleveland UCI dataset has been used in this project which is available on Kaggle.
@@ -29,4 +30,4 @@ Target variable: condition: 0 = no disease, 1 = disease
 ## Distribution of target variable
 There are more people that do not have heart disease than those who have heart disease. Among the 297 total records in the dataset, 47.13% cases are people with heart disease and 53.87% are people without heart disease.
 
-<img src="https://user-images.githubusercontent.com/73715927/169297079-93fda2d2-e945-471e-b1e8-a84fd47f8e9d.jpg" width="350" />
+<img src="https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png" width="350" />
