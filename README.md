@@ -27,4 +27,4 @@ Target variable: condition: 0 = no disease, 1 = disease
 ## Distribution of target variable
 There are more people that do not have heart disease than those who have heart disease. Among 297, 47.13% cases are people with heart disease and 53.87% are people without heart disease.
 
-![image](https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png)
+<img src=https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png" width="200" />
