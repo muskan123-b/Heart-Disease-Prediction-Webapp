@@ -32,8 +32,10 @@ There are more people that do not have heart disease than those who have heart d
 
 <img src="https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png" width="350" />
 
+Other plots and visualisations can be found in the "Heart_disease_visualisations.ipynb" file.
+
 # Deployment of Machine Learning model
-For better visualisation, I've deployed the machine learning model streamlit library of python. The code for the web app can be found on the app.py file.
+For better visualisation, I've deployed the machine learning model using streamlit library of python. The code for the web app can be found in the "app.py" file.
 The link of the web app is given below:
 
 https://share.streamlit.io/muskan123-b/heart-disease-prediction-webapp/main/app.py
