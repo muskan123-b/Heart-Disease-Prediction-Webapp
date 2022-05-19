@@ -15,10 +15,7 @@ st.markdown("<h1 style='text-align: center; color:#42D1C6; font-size:50px;'>--HE
 st.markdown("""<style>.font {font-size:25px;text-align: center;}</style>""", unsafe_allow_html=True)
 st.markdown('<p class="font">This web app aims to help you find out whether you are at a risk of developing a heart disease or not.</p>', unsafe_allow_html=True)
 
-#st.image('heart1.jpg',width=350)
-background = Image.open("heart1.jpg")
-col1, col2, col3 = st.columns([2, 3, 2])
-col2.image(background,width=350)
+st.image('heart1.jpg',width=350)
 
 def main_func():
     st.sidebar.info("Please select the required fields below!")
