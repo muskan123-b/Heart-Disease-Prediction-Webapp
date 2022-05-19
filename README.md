@@ -11,7 +11,7 @@ Heart disease is the leading cause of death worldwide, accounting for one third 
 Heart Disease Cleveland UCI dataset has been used in this project which is available on Kaggle.
 The link of the dataset used is: https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
 
-There are 13 attributes in the dataset as follows.
+There are 297 records of patients, with no null values. Also there are 13 attributes in the dataset as follows.
 1. age: age in years
 2. sex: sex (1 = male; 0 = female)
 3. cp: chest pain type -- Value 0: typical angina -- Value 1: atypical angina -- Value 2: non-anginal pain -- Value 3: asymptomatic
@@ -31,3 +31,9 @@ Target variable: condition: 0 = no disease, 1 = disease
 There are more people that do not have heart disease than those who have heart disease. Among the 297 total records in the dataset, 47.13% cases are people with heart disease and 53.87% are people without heart disease.
 
 <img src="https://user-images.githubusercontent.com/73715927/169295810-d3295ede-1e05-484d-83ed-2bb57994ec32.png" width="350" />
+
+# Deployment of Machine Learning model
+For better visualisation, I've deployed the machine learning model streamlit library of python. The code for the web app can be found on the app.py file.
+The link of the web app is given below:
+
+https://share.streamlit.io/muskan123-b/heart-disease-prediction-webapp/main/app.py
