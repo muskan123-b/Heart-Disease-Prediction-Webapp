@@ -34,6 +34,9 @@ There are more people that do not have heart disease than those who have heart d
 
 Other plots and visualisations can be found in the "Heart_disease_visualisations.ipynb" file.
 
+# Classification Algorithm used
+Classification is a technique where we categorize data into a given number of classes. For this project, I've used KNN (K-nearest neighbors) algorithm. KNN is a supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point. The testing accuracy achieved using KNN is 86.67%.
+
 # Deployment of Machine Learning model
 For better visualisation, I've deployed the machine learning model using streamlit library of python. The code for the web app can be found in the "app.py" file.
 The link of the web app is given below:
